@@ -76,7 +76,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: New Game
-        price: Custom
+        price: '?'
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
