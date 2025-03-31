@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Games
 slug: pricing
 sections:
   - title:
