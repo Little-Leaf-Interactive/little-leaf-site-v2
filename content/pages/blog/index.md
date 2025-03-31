@@ -48,7 +48,6 @@ bottomSections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/top-twenty-ways-to-save-time.md
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
       - content/pages/blog/case-study-3.md
