@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Games",
-            "url": "/pricing",
+            "url": "/games",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
