@@ -3,7 +3,7 @@ title: Games
 slug: games
 sections:
   - title:
-      text: Flexible Pricing
+      text: Our Games
       color: text-dark
       styles:
         self:
