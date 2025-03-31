@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the games section
     plans:
-      - title: Developers
+      - title: Dangernauts
         price: Free
         details: Itch.io
         description: >-
