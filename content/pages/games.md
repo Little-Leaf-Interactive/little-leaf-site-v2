@@ -1,6 +1,6 @@
 ---
 title: Games
-slug: pricing
+slug: games
 sections:
   - title:
       text: Flexible Pricing
